@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: example-configmap-1
+  name: example-configmap-1-6ct58987ht
