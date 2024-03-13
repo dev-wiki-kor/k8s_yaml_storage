@@ -5,3 +5,6 @@ kind: Kustomization
 resources:
 - deployment.yaml
 - service.yaml
+images:
+- name: core.harbor.domain/test/devwiki-backend
+  newTag: b50805e588d9488f443a6f6000a44ac1b942349b
