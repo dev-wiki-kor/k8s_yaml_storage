@@ -7,4 +7,4 @@ resources:
 - service.yaml
 images:
 - name: core.harbor.domain/test/devwiki-backend
-  newTag: 65443557afc326e22fe880789fdfbb0e555a8a95
+  newTag: 527c76126b7e172ca6c58f8fbf12998e1f261303
