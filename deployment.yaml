@@ -14,7 +14,6 @@ spec:
     spec:
       containers:
         - image: core.harbor.domain/test/devwiki-backend:latest
-          imagePullPolicy: Never
           name: devwiki
           ports:
           - containerPort: 8080
